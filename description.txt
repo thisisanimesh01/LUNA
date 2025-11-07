@@ -1,0 +1,47 @@
+# 🌙 LUNA – Adaptive Learning Platform
+
+**LUNA** is a smart, adaptive learning platform built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+It dynamically tracks a student’s learning journey, mastery progress, and quiz performance — adjusting content and difficulty levels based on each learner’s needs.
+
+The goal of **LUNA** is to make personalized education accessible, data-driven, and intuitive through real-time feedback and adaptive assessments.
+
+---
+
+## 🚀 Current Features
+
+- **Interactive Dashboard** – Visualizes learner progress with clean charts and summaries.  
+- **Daily Quiz System** – Presents adaptive questions based on topic proficiency.  
+- **Progress Tracking** – Displays mastery scores and time-based learning performance.  
+- **Calendar Integration** – Highlights upcoming activities, streaks, and due dates.  
+- **User-Friendly Interface** – Built with React + TailwindCSS for a responsive and minimal experience.  
+- **Modular Design** – Scalable architecture separating client and server for easy updates.
+
+---
+
+## 🧠 Upcoming Features
+
+- **Adaptive Engine** – Dynamic question difficulty adjustment based on user responses.  
+- **Subject Sections** – Topic-wise learning modules (Python, C, C++, Web Development, Full Stack).  
+- **Performance Analytics** – Detailed graphs and metrics on mastery, time, and topic strength.  
+- **Dark/Light Mode Toggle** – User preference switch for accessibility and comfort.  
+- **Instructor Tools** – Admin panel for creating and managing quizzes and progress reports.  
+- **Gamified Learning** – Streaks, badges, and achievements to enhance engagement.
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | React (Vite), Tailwind CSS |
+| **Backend** | Node.js, Express |
+| **Database** | MongoDB |
+| **Charts** | Recharts |
+| **Containerization** | Docker (API + MongoDB) |
+| **Hosting (Planned)** | Vercel (Frontend) + Render/Railway (Backend) |
+
+---
+
+
+  
+
